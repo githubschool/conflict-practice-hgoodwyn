@@ -6,7 +6,10 @@
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
+
 This repository also has some baked in merge conflicts for practice. 
+This repository is also being used as a part of GitHub training, to practice Git and GitHub.
+I am obvioulsy going to need to take some advanced training on conflict resolution.
 
 Please feel free to use this in your classrooms,
 make video/picture/text adaptations,
